@@ -1,10 +1,11 @@
-## 👋🏽 Olá, sou o Gustavo <b>Cenedezi</b> Rodrigues</h1>
+### Olá👋🏽 
 
-...
+##### Sou um Desenvolvedor Full-Stack.
 
-### Formação Acadêmica
-- Graduando em Engenharia de Software (3/8)
-- Técnico de Informática para Internet
+Graduando em Engenharia de Software na <a href="https://cursos.cruzeirodosul.edu.br/graduacao">UniCSul</a>;
+<br>
+Técnico de Informática para Internet formado pela <a href="https://etecsp.cps.sp.gov.br">ETEC</a>;
+
 
 ### Linguagens e Tecnologias
 <div>
@@ -30,7 +31,7 @@
 
 ### Contato
 <div>
-  <a href="https://instagram.com/gustavocenedezi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/cenedezi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/gustavocenedezi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
