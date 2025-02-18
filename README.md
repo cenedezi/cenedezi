@@ -7,7 +7,7 @@ Graduando em Engenharia de Software na <a href="https://cursos.cruzeirodosul.edu
 Técnico de Informática para Internet formado pela <a href="https://etecsp.cps.sp.gov.br">ETEC</a>;
 
 
-### Linguagens e Tecnologias
+#### Linguagens e Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,7 +29,7 @@ Técnico de Informática para Internet formado pela <a href="https://etecsp.cps.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### Contato
+#### Contato
 <div>
   <a href="https://www.linkedin.com/in/cenedezi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/gustavocenedezi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
