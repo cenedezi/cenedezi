@@ -1,6 +1,6 @@
 ### Olá 👋🏽 
 
-##### Sou militar do Exército Brasileiro durante o dia ☼ e Desenvolvedor Full-Stack à noite ☾
+##### Sou militar do Exército Brasileiro e Desenvolvedor Full-Stack
 
 <p>Graduando em Engenharia de Software na <a href="https://cursos.cruzeirodosul.edu.br/graduacao">Universidade Cruzeiro do Sul</a>;<br/>
 Técnico de Informática para Internet formado pela <a href="https://etecsp.cps.sp.gov.br">Escola Técnica Estadual</a>;</p>
