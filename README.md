@@ -2,7 +2,8 @@
 
 ##### Sou militar do Exército Brasileiro e Desenvolvedor Full-Stack
 
-<p>Graduando em Engenharia de Software na <a href="https://cursos.cruzeirodosul.edu.br/graduacao">Universidade Cruzeiro do Sul</a>;<br/>
+<p>Granduando em Ciência e Tecnologia na <a href="https://www.ufabc.edu.br">Universidade Federal do ABC</a>;<br/>
+  Graduando em Engenharia de Software na <a href="https://cursos.cruzeirodosul.edu.br/graduacao">Universidade Cruzeiro do Sul</a>;<br/>
 Técnico de Informática para Internet formado pela <a href="https://etecsp.cps.sp.gov.br">Escola Técnica Estadual</a>;</p>
 
 <ul>
